@@ -2,8 +2,6 @@
 
 **Project Name:** SmartHome Services
 
-**Project Lead:** Yash
-
 **Project Type:** Mobile + Web Application
 
 **Objective:** Provide an app-based platform that connects customers with verified home service professionals like electricians, plumbers, carpenters, painters, and interior designers.
