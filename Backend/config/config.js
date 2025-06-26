@@ -1,7 +1,7 @@
-require("dotenv").config();
+const dotenv = require("dotenv");
+dotenv.config();
 
 module.exports = {
-    PORT: process.env.PORT || 3000,
-    MONGODB_URI: process.env.MONGODB_URI,
-    JWT_SECRET: process.env.JWT_SECRET,
+  port: process.env.PORT || 3000,
+  mongo_url: process.env.MONGO_URL || "mongodb://localhost:27017/auth"
 };
